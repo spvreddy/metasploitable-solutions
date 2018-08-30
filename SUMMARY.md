@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Metasploitable 2 Solutions](README.md)
+* [Metasploitable 2](README.md)
 
