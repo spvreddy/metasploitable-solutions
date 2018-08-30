@@ -10,4 +10,5 @@
 * [Attacking on Port 139](attacking-on-port-139.md)
 * [Attacking on Port 445](attacking-on-port-445.md)
 * [Attacking on Port 1099](attacking-on-port-1099.md)
+* [Attacking on Port 1524](attacking-on-port-1524.md)
 
