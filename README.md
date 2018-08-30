@@ -1,7 +1,3 @@
----
-description: Metasploitable Solutions
----
-
 # Metasploitable 2
 
 ## Introduction
