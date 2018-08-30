@@ -1,2 +1,0 @@
-# Basic Scan using Nmap
-
