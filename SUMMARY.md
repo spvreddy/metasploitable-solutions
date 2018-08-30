@@ -14,4 +14,8 @@
 * [Attacking on Port 2121](attacking-on-port-2121.md)
 * [Attacking on Port 3306](attacking-on-port-3306.md)
 * [Attacking on Port 3632](attacking-on-port-3632.md)
+* [Attacking on port 5432](attacking-on-port-5432.md)
+* [Attacking on Port 5900](attacking-on-port-5900.md)
+* [Attacking on Port 6667](attacking-on-port-6667.md)
+* [Attacking on Port 8180](attacking-on-port-8180.md)
 
