@@ -1,5 +1,7 @@
 # Metasploitable 2
-
+#Author:Spv Reddy
+#About: Technical Commitee Member,National Cyber Defense Research Centre
+#About: Steering Committe Member,National Infomration Security Council
 ## Introduction
 
 Metasploitable is an intentionally vulnerable Linux virtual machine. This VM can be used to conduct security training, test security tools, and practice common penetration testing techniques.
